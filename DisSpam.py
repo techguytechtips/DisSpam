@@ -87,7 +87,7 @@ class Window(Frame):
 				root.update()
 				pyautogui.typewrite("@" + (tag.get()), interval=0)
 				pyautogui.typewrite(['enter'])
-				pyautogui.typewrite(['eninit_window(self)ter'])
+				pyautogui.typewrite(['enter'])
 				root.update()
 				g += (1)
 		elif box.get() == 1 and at.get() == 1 and infinite.get() == 1:
