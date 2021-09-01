@@ -1,4 +1,6 @@
 # DisSpam
+
+## About
 DisSpam is a auto typer meant for use in Discord to spam people and has Discord specific features (eg, Bypass Anti-Spam).
 
 ## Dependices
